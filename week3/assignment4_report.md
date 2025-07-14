@@ -4,7 +4,6 @@ Student: Sikun Peng
 Course: MSCS532
 Date: 07/14/2025
 
-⸻
 
 1. Heapsort Implementation and Analysis
 
